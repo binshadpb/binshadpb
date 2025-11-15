@@ -39,17 +39,6 @@
 #### **Web Technologies**
 `HTML` • `CSS`
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=binshadpb&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binshadpb&layout=compact&theme=default" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 - 📍 Abu Dhabi, UAE  
